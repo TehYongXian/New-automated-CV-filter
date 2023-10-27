@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}My Django App{% endblock %}</title>
+</head>
+<body>
+
+        <div class="nav-bar" style="background-color: pink; padding: 10px; border: 1px black solid;">
+            <nav >
+            <ul>
+                <button style="border-radius: 5px; height: 30px;"><a href="{% url 'landing_page' %}">Home Page</a></button>
+                <!-- <button><a href="{% url 'readLocal' %}">Read Local</a></button> -->
+                <button style="border-radius: 5px; height: 30px;"><a href="{% url 'upload' %}">Upload</a></button>
+                <button style="border-radius: 5px; height: 30px;"><a href="{% url '' %}">Logout</a></button>
+
+            </ul>
+            </nav>
+        </div>
+        
+        <div class="content">
+            {% block content %}{% endblock %}
+        </div>
+
+    
+</body>
+</html>

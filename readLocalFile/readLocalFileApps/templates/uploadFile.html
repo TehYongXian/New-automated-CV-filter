@@ -1,0 +1,17 @@
+
+{% extends 'base.html' %}
+
+{% block title %}Read Local - My Django App{% endblock %}
+
+{% block content %}
+<head>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+</head>
+<h1>Upload CV</h1>
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="file_upload">
+    <button type="submit">Upload and Filter</button>
+</form>
+{% endblock %}

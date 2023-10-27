@@ -1,0 +1,65 @@
+Objective:
+Dedicated web developer with a strong passion for artificial intelligence. Seeking a challenging role that combines web development and AI to create intelligent and innovative web solutions.
+
+Professional Experience:
+
+AI Web Developer
+AI Solutions Inc., City, State
+Date Range
+
+Developed and maintained web applications with integrated AI components for natural language processing, image recognition, and recommendation systems.
+Implemented machine learning models using Python and popular AI libraries such as TensorFlow and PyTorch.
+Collaborated with AI engineers to design and implement AI-driven chatbots and virtual assistants.
+Worked on AI-enhanced SEO strategies that led to a 25% increase in organic web traffic.
+Integrated AI-driven analytics tools for user behavior analysis and personalization.
+Full-Stack Web Developer
+WebTech Innovations, City, State
+Date Range
+
+Designed, developed, and optimized responsive websites and web applications using HTML, CSS, JavaScript, and modern front-end frameworks.
+Integrated AI-powered recommendation systems for e-commerce websites, resulting in a 20% increase in sales.
+Implemented AI-driven image recognition algorithms for content moderation and tagging.
+Collaborated with UX designers to create intuitive user interfaces and improve user experiences.
+Utilized AI for automating repetitive web development tasks and optimizing site performance.
+Junior Web Developer
+WebWorld Solutions, City, State
+Date Range
+
+Assisted in front-end and back-end development tasks, including coding, testing, and debugging.
+Collaborated with senior developers to implement AI features into existing web projects.
+Gained experience with AI toolkits and libraries while working on AI prototypes and experiments.
+Participated in agile development methodologies and version control using Git.
+Education:
+
+Bachelor of Science in Computer Science
+University Name, City, State
+Graduation Date
+Skills:
+
+Web Development: HTML, CSS, JavaScript, React, Angular, PHP
+AI Technologies: Python, TensorFlow, PyTorch, Natural Language Processing
+Database Management: SQL, NoSQL
+AI-Powered Chatbots and Virtual Assistants
+Machine Learning and Deep Learning
+Front-End and Back-End Development
+Responsive Web Design
+UX/UI Design
+Agile Development
+Version Control (Git)
+OS: macOS
+
+Certifications:
+
+AI for Everyone - Coursera, August 2020
+AWS Certified Developer - Amazon Web Services, March 2021
+Awards and Honors:
+
+Web Developer of the Year - WebTech Innovations, 2019
+Languages:
+
+Fluent in English and Spanish
+Personal Interests:
+
+Researching the latest advancements in AI and web development
+Contributing to open-source AI projects
+Participating in AI and web development meetups and conferences

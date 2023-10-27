@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+
+{% block title %}Read Local - My Django App{% endblock %}
+
+{% block content %}
+
+<head>
+    <title>Filtered Text</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}">
+</head>
+<body>
+    <h1>Filtered Text</h1>
+
+    <h2>Applicant Skill Set</h2>
+    <table>
+        <tr>
+            <th>Programming Languages</th>
+            <th>Database Management</th>
+            <th>Web Development</th>
+            <th>artificial intelligence</th>
+            <th>mobile development</th>
+            <th>operating systems</th>
+            <th>Hobby</th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    {% for language in programming_languages %}
+                        <li>{{ language }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {% for db in database_management %}
+                        <li>{{ db }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {% for web in web_development %}
+                        <li>{{ web }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {% for ai in artificial_intelligence %}
+                        <li>{{ ai }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {% for mobile in mobile_development %}
+                        <li>{{ mobile }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {% for OS in operating_systems %}
+                        <li>{{ OS }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {% for Hobby in hobbies %}
+                        <li>{{ Hobby }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+        </tr>
+    </table>
+    
+
+    <h2>Original Content</h2>
+    <div style="width: 95vw; border: 1px dotted black;">
+        <pre style="white-space: pre-wrap; padding: 5px;">{{ file_content }}</pre>
+    </div>
+    
+</body> 
+
+{% endblock %}
+
+

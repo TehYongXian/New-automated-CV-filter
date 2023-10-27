@@ -1,0 +1,50 @@
+Gan Wei Jian
+Kuala Lumpur, Malaysia | +60102189899 | jiangan311@gmail.com
+
+Objective
+A driven and motivated software engineering student, looking for an internship in software development starting 3rd October 2022 with a minimum duration of 16 weeks to gain industry experience and apply classroom learnings to real-world projects.
+
+Education
+Asia Pacific University | Bukit Jalil, Kuala Lumpur	                                                    November 2020 – Present
+Bachelor of Science in Software Engineering, CGPA 3.71			
+Expected Graduation, December 2023
+
+Coursework: Concurrent Programming, System Analysis and Design, Database, Data Structures, Data Analysis, Networking, Operating System, Computing Math, Computing Theory
+
+Skills
+Programming:  Java, HTML, CSS, C#, Python, C++, JavaScript, SQL, R
+Software:  Git, Visual Studio Code, Visual Studio, NetBeans, RStudio, Microsoft SQL Server Management Studio
+Languages:  Chinese (native), English (fluent), Malay (conversational)
+
+Projects
+University Accommodation Management System	                                                                        Semester 2021
+Group Project
+•	Worked in a group of 3 to develop a .NET application in C# to facilitate university accommodation management 
+•	Implemented the database design with Microsoft SQL Server and established the connection between front-end and back-end using ADO.NET
+•	Devised SQL queries to store and retrieve data from the database
+
+Food Delivery Website	                                                                                 June 2022
+Individual Project
+•	Built a static website which is professionally designed with semantic HTML and CSS to promote monthly food subscription services
+•	Adapted a responsive design using media queries and responsive units to make the website responsive and mobile-friendly to enhance user experience
+•	Implemented the navigation menu using vanilla JavaScript
+
+APU Hostel Home Appliances Service Centre	                                                                        Semester 2022
+Group Project
+•	Collaborated with another teammate to develop a Java application to help managers and technicians to manage service appointments
+
+Banking System		                                                                        Semester 2021
+Individual Project
+•	Built a menu-based command-line interface in Python to assist bank employees and customers with bank operations
+•	Create, read, update, and delete operations are performed on text files
+
+Activities
+Employee & Employment Trends			June 2022
+Scriptwriter / Technician
+•	Collaborated with other students to organize an online interview session regarding hiring trends as part of a course assignment which attracted over 25 participants
+•	Prepared the questions to be asked in the interview session
+•	Set up the interview platform and addressed technical issues that surfaced during the interview
+
+Clubs
+•	Japanese Cultural Club (Member), Asia Pacific Analytics Club (Member)
+
